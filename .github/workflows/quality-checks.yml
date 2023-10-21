@@ -8,4 +8,4 @@ on:
 jobs:
     quality-checks:
         name: 'Run Quality Checks'
-        uses: 'AyoubNafil/NadActions/.github/workflows/quality-checks.yml@main'
+        uses: 'AyoubNafil/NaddActions/.github/workflows/quality-checks.yml@main'
